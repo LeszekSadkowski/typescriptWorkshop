@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rooms page container test should render given room 1`] = `
+<Container
+  tag="div"
+>
+  <div>
+    salan konferancyjna
+    <br />
+    <input
+      onChange={[Function]}
+      type="text"
+      value="salan konferancyjna"
+    />
+    <button
+      onClick={[Function]}
+    >
+      Dodaj pokuj
+    </button>
+  </div>
+  <Row
+    tag="div"
+  />
+</Container>
+`;

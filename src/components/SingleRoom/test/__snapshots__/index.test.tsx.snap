@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Single room component test should render single room component 1`] = `
+<Col
+  md="4"
+  tag="div"
+  widths={
+    Array [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl",
+    ]
+  }
+>
+  <Card
+    tag="div"
+  >
+    <CardBody
+      tag="div"
+    >
+      <CardTitle
+        tag="div"
+      >
+        example room
+      </CardTitle>
+      <div>
+        Likes: 
+        0
+      </div>
+      <Button
+        color="secondary"
+        onClick={[Function]}
+        tag="button"
+      >
+        Like
+      </Button>
+      <Button
+        color="secondary"
+        onClick={[Function]}
+        tag="button"
+      >
+        usuń
+      </Button>
+    </CardBody>
+  </Card>
+</Col>
+`;
